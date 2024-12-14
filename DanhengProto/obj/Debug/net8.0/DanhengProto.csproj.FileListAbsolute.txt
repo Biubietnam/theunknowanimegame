@@ -1,0 +1,12 @@
+D:\protofol\DanhengProto\bin\Debug\net8.0\DanhengProto.deps.json
+D:\protofol\DanhengProto\bin\Debug\net8.0\DanhengProto.dll
+D:\protofol\DanhengProto\bin\Debug\net8.0\DanhengProto.pdb
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.csproj.AssemblyReference.cache
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.GeneratedMSBuildEditorConfig.editorconfig
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.AssemblyInfoInputs.cache
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.AssemblyInfo.cs
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.csproj.CoreCompileInputs.cache
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.dll
+D:\protofol\DanhengProto\obj\Debug\net8.0\refint\DanhengProto.dll
+D:\protofol\DanhengProto\obj\Debug\net8.0\DanhengProto.pdb
+D:\protofol\DanhengProto\obj\Debug\net8.0\ref\DanhengProto.dll

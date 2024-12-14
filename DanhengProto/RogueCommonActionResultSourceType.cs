@@ -1,0 +1,58 @@
+﻿using System;
+using Google.Protobuf.Reflection;
+
+namespace EggLink.DanhengServer.Proto
+{
+	// Token: 0x02000E35 RID: 3637
+	public enum RogueCommonActionResultSourceType
+	{
+		// Token: 0x04004260 RID: 16992
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_NONE")]
+		None,
+		// Token: 0x04004261 RID: 16993
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_SELECT")]
+		Select,
+		// Token: 0x04004262 RID: 16994
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_ENHANCE")]
+		Enhance,
+		// Token: 0x04004263 RID: 16995
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_MIRACLE")]
+		Miracle,
+		// Token: 0x04004264 RID: 16996
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_DIALOGUE")]
+		Dialogue,
+		// Token: 0x04004265 RID: 16997
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_BONUS")]
+		Bonus,
+		// Token: 0x04004266 RID: 16998
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_SHOP")]
+		Shop,
+		// Token: 0x04004267 RID: 16999
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_DICE")]
+		Dice,
+		// Token: 0x04004268 RID: 17000
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_AEON")]
+		Aeon,
+		// Token: 0x04004269 RID: 17001
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_BOARD_EVENT")]
+		BoardEvent,
+		// Token: 0x0400426A RID: 17002
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_MAZE_SKILL")]
+		MazeSkill,
+		// Token: 0x0400426B RID: 17003
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_LEVEL_MECHANISM")]
+		LevelMechanism,
+		// Token: 0x0400426C RID: 17004
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_BUFF")]
+		Buff,
+		// Token: 0x0400426D RID: 17005
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_REFORGE")]
+		Reforge,
+		// Token: 0x0400426E RID: 17006
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_MAGIC_UNIT_COMPOSE")]
+		MagicUnitCompose,
+		// Token: 0x0400426F RID: 17007
+		[OriginalName("ROGUE_COMMON_ACTION_RESULT_SOURCE_TYPE_MAGIC_UNIT_REFORGE")]
+		MagicUnitReforge
+	}
+}

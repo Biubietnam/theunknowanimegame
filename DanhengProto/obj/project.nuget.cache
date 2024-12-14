@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9B483TaljVY=",
+  "success": true,
+  "projectFilePath": "D:\\protofol\\DanhengProto\\DanhengProto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.27.3\\google.protobuf.3.27.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf.tools\\3.27.3\\google.protobuf.tools.3.27.3.nupkg.sha512"
+  ],
+  "logs": []
+}

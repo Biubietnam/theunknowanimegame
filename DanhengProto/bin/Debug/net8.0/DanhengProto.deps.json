@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DanhengProto/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.27.3",
+          "Google.Protobuf.Tools": "3.27.3"
+        },
+        "runtime": {
+          "DanhengProto.dll": {}
+        }
+      },
+      "Google.Protobuf/3.27.3": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.27.3.0",
+            "fileVersion": "3.27.3.0"
+          }
+        }
+      },
+      "Google.Protobuf.Tools/3.27.3": {}
+    }
+  },
+  "libraries": {
+    "DanhengProto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.27.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ld+oe1+Mc6no643d8otGm6Zylu7KBpGnAiqOW3nOpV8VxUuqhz70vRNKUU5grLaCeuUQVF8t9dm8TgmkTMr1Tg==",
+      "path": "google.protobuf/3.27.3",
+      "hashPath": "google.protobuf.3.27.3.nupkg.sha512"
+    },
+    "Google.Protobuf.Tools/3.27.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bKPAFdIgqZIeJ3q5U75SQ5YOpRaaqnkf9+an8BrMeGOaDS/yV4/raHjPUXVWGLeLjfVCCBgiHnmV/VJs2GEqlg==",
+      "path": "google.protobuf.tools/3.27.3",
+      "hashPath": "google.protobuf.tools.3.27.3.nupkg.sha512"
+    }
+  }
+}

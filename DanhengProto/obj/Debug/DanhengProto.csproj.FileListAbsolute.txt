@@ -1,0 +1,2 @@
+D:\protofol\DanhengProto\obj\Debug\DanhengProto.csproj.AssemblyReference.cache
+D:\protofol\DanhengProto\obj\Debug\DanhengProto.csproj.CoreCompileInputs.cache
